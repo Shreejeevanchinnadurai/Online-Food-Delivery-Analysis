@@ -1,5 +1,3 @@
----
-
 
 ## 📊 Dataset Information
 - **Source:** GUVI Capstone Project Dataset
